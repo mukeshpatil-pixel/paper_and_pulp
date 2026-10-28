@@ -1,0 +1,5 @@
+Filter_Mode,Window_Seconds,Precision,Recall,F1_Score,False_Alarm_Seconds,False_Alarm_Calls (Dispatches),Failure_3_Alarm_Duration (Hours),Failure_3_Detected
+Raw 1-Second (No Filter),1,99.06,50.24,0.6667,899,82,26.4,YES (100% Incident Catch)
+1-Minute Persistence,60,99.93,49.6,0.663,64,1,26.0,YES (100% Incident Catch)
+2-Minute Persistence,120,99.98,49.51,0.6623,20,1,26.0,YES (100% Incident Catch)
+5-Minute Persistence,300,100.0,49.09,0.6585,0,0,25.8,YES (100% Incident Catch)

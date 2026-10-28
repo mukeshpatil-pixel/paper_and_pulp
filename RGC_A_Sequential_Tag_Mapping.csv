@@ -1,0 +1,72 @@
+﻿Cell,Tag,Corrected_Column_Name,Previous_Column_Name,Category,Unit,Description,Status
+C2,CCRNFI0703BA.PV,flow_rate_1,Flow rate 0703BA,Flow Rate,m³/h,CCR Recycle Gas Suction Flow (Ch A),CHANGED
+D2,CCRNFI0703BB.PV,flow_rate_2,Flow rate 0703BB,Flow Rate,m³/h,CCR Recycle Gas Suction Flow (Ch B),CHANGED
+E2,CCRNFI0703BC.PV,flow_rate_3,Flow rate 0703BC,Flow Rate,m³/h,CCR Recycle Gas Suction Flow (Ch C),CHANGED
+F2,CCRNPI0704.PV,pressure_1,Pressure 0704,Pressure,kg/cm² g,Compressor Suction Header Pressure,CHANGED
+G2,CCRNTI0715.PV,temperature_1,Temperature 0715,Temperature,°C,Process Gas Suction Temperature,CHANGED
+H2,CCRNVI0780AA.PV,vibration_1,Vibration 0780AA,Vibration,µm pk-pk,Compressor Radial Vibration NDE (X-Probe),CHANGED
+I2,CCRNVI0780AB.PV,vibration_2,Vibration 0780AB,Vibration,µm pk-pk,Compressor Radial Vibration NDE (Y-Probe),CHANGED
+J2,CCRNVI0780AC.PV,vibration_3,Vibration 0780AC,Vibration,µm pk-pk,Compressor Radial Vibration DE Probe,CHANGED
+K2,CCRNVI0781A.PV,vibration_4,Vibration 0781A,Vibration,mm/s RMS,Compressor Casing Vibration (DE),CHANGED
+L2,CCRNVI0782A.PV,vibration_5,Vibration 0782A,Vibration,mm/s RMS,Compressor Casing Vibration (NDE),CHANGED
+M2,CCRNZI0780A.PV,axial_displacement_1,Position or displacement 0780A,Rotor Position,µm,Rotor Axial Displacement (Thrust Probe A),CHANGED
+N2,CCRNZI0781A.PV,axial_displacement_2,Position or displacement 0781A,Rotor Position,µm,Rotor Axial Displacement (Thrust Probe B),CHANGED
+O2,CCRNIIK001AM1.PV,motor_current_1,Unverified IIK signal 001AM1,Motor Current,Amperes (A),Drive Motor Operating Current (M1),CHANGED
+P2,CCRNVI0790AA.PV,vibration_6,Vibration 0790AA,Vibration,µm pk-pk,Motor Bearing Radial Vibration (DE),CHANGED
+Q2,CCRNVI0790AB.PV,vibration_7,Vibration 0790AB,Vibration,µm pk-pk,Motor Bearing Radial Vibration (NDE),CHANGED
+R2,CCRNTXI0790AA.PV,temperature_2,Temperature channel 0790AA,Bearing Temp,°C,Bearing Metal Temperature (Pad 1),CHANGED
+S2,CCRNTXI0790AB.PV,temperature_3,Temperature channel 0790AB,Bearing Temp,°C,Bearing Metal Temperature (Pad 2),CHANGED
+T2,CCRNTXI0790AC.PV,temperature_4,Temperature channel 0790AC,Bearing Temp,°C,Bearing Metal Temperature (Pad 3),CHANGED
+U2,CCRNTXI0790AD.PV,temperature_5,Temperature channel 0790AD,Bearing Temp,°C,Bearing Metal Temperature (Pad 4),CHANGED
+V2,CCRNTXI0790AE.PV,temperature_6,Temperature channel 0790AE,Bearing Temp,°C,Bearing Metal Temperature (Pad 5),CHANGED
+W2,CCRNTXI0790AF.PV,temperature_7,Temperature channel 0790AF,Bearing Temp,°C,Bearing Metal Temperature (Pad 6),CHANGED
+X2,CCRNTXI0790AG.PV,temperature_8,Temperature channel 0790AG,Bearing Temp,°C,Bearing Metal Temperature (Pad 7),CHANGED
+Y2,CCRNTXI0790AH.PV,temperature_9,Temperature channel 0790AH,Bearing Temp,°C,Bearing Metal Temperature (Pad 8),CHANGED
+Z2,CCRNTI0785AA.PV,temperature_10,Temperature 0785AA,Motor Stator Temp,°C,Motor Stator Winding Temp Phase U (Slot 1),CHANGED
+AA2,CCRNTI0785AB.PV,temperature_11,Temperature 0785AB,Motor Stator Temp,°C,Motor Stator Winding Temp Phase U (Slot 2),CHANGED
+AB2,CCRNTI0785AC.PV,temperature_12,Temperature 0785AC,Motor Stator Temp,°C,Motor Stator Winding Temp Phase U (Slot 3),CHANGED
+AC2,CCRNTI0785AD.PV,temperature_13,Temperature 0785AD,Motor Stator Temp,°C,Motor Stator Winding Temp Phase U (Slot 4),CHANGED
+AD2,CCRNTI0786AA.PV,temperature_14,Temperature 0786AA,Motor Stator Temp,°C,Motor Stator Winding Temp Phase V (Slot 1),CHANGED
+AE2,CCRNTI0786AB.PV,temperature_15,Temperature 0786AB,Motor Stator Temp,°C,Motor Stator Winding Temp Phase V (Slot 2),CHANGED
+AF2,CCRNTI0786AC.PV,temperature_16,Temperature 0786AC,Motor Stator Temp,°C,Motor Stator Winding Temp Phase V (Slot 3),CHANGED
+AG2,CCRNTI0786AD.PV,temperature_17,Temperature 0786AD,Motor Stator Temp,°C,Motor Stator Winding Temp Phase V (Slot 4),CHANGED
+AH2,CCRNTI0787AA.PV,temperature_18,Temperature 0787AA,Motor Stator Temp,°C,Motor Stator Winding Temp Phase W (Slot 1),CHANGED
+AI2,CCRNTI0787AB.PV,temperature_19,Temperature 0787AB,Motor Stator Temp,°C,Motor Stator Winding Temp Phase W (Slot 2),CHANGED
+AJ2,CCRNTI0787AC.PV,temperature_20,Temperature 0787AC,Motor Stator Temp,°C,Motor Stator Winding Temp Phase W (Slot 3),CHANGED
+AK2,CCRNTI0787AD.PV,temperature_21,Temperature 0787AD,Motor Stator Temp,°C,Motor Stator Winding Temp Phase W (Slot 4),CHANGED
+AL2,CCRNTI0788AA.PV,temperature_22,Temperature 0788AA,Motor Temp,°C,Motor Core / Bearing Temperature 1,CHANGED
+AM2,CCRNTI0788AB.PV,temperature_23,Temperature 0788AB,Motor Temp,°C,Motor Core / Bearing Temperature 2,CHANGED
+AN2,CCRNTI0788AC.PV,temperature_24,Temperature 0788AC,Motor Temp,°C,Motor Core / Bearing Temperature 3,CHANGED
+AO2,CCRNTI0788AD.PV,temperature_25,Temperature 0788AD,Motor Temp,°C,Motor Core / Bearing Temperature 4,CHANGED
+AP2,CCRNKI0780A.PV,shaft_speed_1,Unverified KI signal 0780A,Speed,RPM / Pulse,Compressor Keyphasor / Shaft Speed Indicator,CHANGED
+AQ2,CCRNTI0780AA.PV,temperature_26,Temperature 0780AA,Bearing Temp,°C,Journal Bearing Temperature (DE Pad A),CHANGED
+AR2,CCRNTI0780AB.PV,temperature_27,Temperature 0780AB,Bearing Temp,°C,Journal Bearing Temperature (DE Pad B),CHANGED
+AS2,CCRNTI0780AC.PV,temperature_28,Temperature 0780AC,Bearing Temp,°C,Journal Bearing Temperature (NDE Pad A),CHANGED
+AT2,CCRNTI0780AD.PV,temperature_29,Temperature 0780AD,Bearing Temp,°C,Journal Bearing Temperature (NDE Pad B),CHANGED
+AU2,CCRNTI0781A.PV,temperature_30,Temperature 0781A,Lube Oil,°C,Lube Oil Supply / Header Temperature,CHANGED
+AV2,CCRNTI0782A.PV,temperature_31,Temperature 0782A,Lube Oil,°C,Lube Oil Return / Drain Temperature,CHANGED
+AW2,CCRNPI0718A.PV,pressure_2,Pressure 0718A,Pressure,kg/cm² g,Interstage / Stage 1 Discharge Pressure (Ch A),CHANGED
+AX2,CCRNPI0719A.PV,pressure_3,Pressure 0719A,Pressure,kg/cm² g,Interstage / Stage 1 Discharge Pressure (Ch B),CHANGED
+AY2,CCRNPDI0716A.PV,differential_pressure_1,Differential pressure 0716A,Differential Pressure,kg/cm²,Suction / Lube Filter Differential Pressure,CHANGED
+AZ2,CCRNTI0702AA.PV,temperature_32,Temperature 0702AA,Temperature,°C,Stage 1 Suction Gas Temperature (Ch A),CHANGED
+BA2,CCRNTI0702AB.PV,temperature_33,Temperature 0702AB,Temperature,°C,Stage 1 Suction Gas Temperature (Ch B),CHANGED
+BB2,CCRNTI0702AC.PV,temperature_34,Temperature 0702AC,Temperature,°C,Stage 1 Suction Gas Temperature (Ch C),CHANGED
+BC2,CCRNTI0717AA.PV,temperature_35,Temperature 0717AA,Temperature,°C,Stage 1 Discharge Gas Temperature (Ch A),CHANGED
+BD2,CCRNTI0717AB.PV,temperature_36,Temperature 0717AB,Temperature,°C,Stage 1 Discharge Gas Temperature (Ch B),CHANGED
+BE2,CCRNTI0717AC.PV,temperature_37,Temperature 0717AC,Temperature,°C,Stage 1 Discharge Gas Temperature (Ch C),CHANGED
+BF2,CCRNPI0721AA.PV,pressure_4,Pressure 0721AA,Pressure,kg/cm² g,Final Discharge Pressure (Ch A),CHANGED
+BG2,CCRNPI0721AB.PV,pressure_5,Pressure 0721AB,Pressure,kg/cm² g,Final Discharge Pressure (Ch B),CHANGED
+BH2,CCRNPI0721AC.PV,pressure_6,Pressure 0721AC,Pressure,kg/cm² g,Final Discharge Pressure (Ch C),CHANGED
+BI2,CCRNPI0760A.PV,pressure_7,Pressure 0760A,Seal Gas,kg/cm² g,Seal Gas / Balance Pressure,CHANGED
+BJ2,CCRNLI0760A.PV,level_1,Level 0760A,Lube Oil Level,%,Lube Oil Reservoir Level,CHANGED
+BK2,CCRNTI0760A.PV,temperature_38,Temperature 0760A,Lube Oil,°C,Lube Oil Tank Oil Temperature,CHANGED
+BL2,CCRNHIC0773A.PV,anti_surge_valve_1,Manual controller value 0773A,Anti-Surge Valve,%,Anti-Surge Control Valve Opening (ASV HIC),CHANGED
+BM2,CCRNLI0701A.PV,level_2,Level 0701A,Knockout Drum Level,%,Suction Knockout Drum Level (Ch A),CHANGED
+BN2,CCRNLI0701B.PV,level_3,Level 0701B,Knockout Drum Level,%,Suction Knockout Drum Level (Ch B),CHANGED
+BO2,CCRNLI0701C.PV,level_4,Level 0701C,Knockout Drum Level,%,Suction Knockout Drum Level (Ch C),CHANGED
+BP2,CCRNPI0851A.PV,pressure_8,Pressure 0851A,Pressure,kg/cm² g,Seal Gas Vent / Flare Header Pressure,CHANGED
+BQ2,CCRNTI0852AA.PV,temperature_39,Temperature 0852AA,Temperature,°C,Gas Aftercooler Inlet Temperature,CHANGED
+BR2,CCRNTI0853AA.PV,temperature_40,Temperature 0853AA,Temperature,°C,Gas Aftercooler Outlet Temperature,CHANGED
+BS2,CCRNPI0750A.PV,pressure_9,Pressure 0750A,Pressure,kg/cm² g,Suction Header Pressure (Ch A),CHANGED
+BT2,CCRNPI0750B.PV,pressure_10,Pressure 0750B,Pressure,kg/cm² g,Suction Header Pressure (Ch B),CHANGED
+BU2,CCRNPI0750C.PV,pressure_11,Pressure 0750C,Pressure,kg/cm² g,Suction Header Pressure (Ch C),CHANGED

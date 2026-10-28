@@ -1,0 +1,10 @@
+Fold,Test_Month,Filter_Mode,PR_AUC,Precision,Recall,F1_Score,False_Dispatches,False_Alarm_Seconds,Event_Catch_Status
+Fold 1,Test JUNE 2020,Raw (1-Sec),96.51,99.29,54.82,0.7064,51,674,DETECTED (26.4h Warning)
+Fold 1,Test JUNE 2020,1-Minute Filter,96.51,99.93,54.12,0.7021,1,64,DETECTED (26.0h Warning)
+Fold 1,Test JUNE 2020,5-Minute Filter,96.51,100.0,53.56,0.6976,0,0,DETECTED (25.8h Warning)
+Fold 2,Test JULY 2020,Raw (1-Sec),52.86,1.82,0.08,0.0015,120,647,MISSED
+Fold 2,Test JULY 2020,1-Minute Filter,52.86,0.0,0.0,0.0,1,16,MISSED
+Fold 2,Test JULY 2020,5-Minute Filter,52.86,0.0,0.0,0.0,0,0,MISSED
+Fold 3,Test AUGUST 2020,Raw (1-Sec),N/A (All Normal),100.0,100.0,1.0,0,0,CLEAN (No Fault)
+Fold 3,Test AUGUST 2020,1-Minute Filter,N/A (All Normal),100.0,100.0,1.0,0,0,CLEAN (No Fault)
+Fold 3,Test AUGUST 2020,5-Minute Filter,N/A (All Normal),100.0,100.0,1.0,0,0,CLEAN (No Fault)

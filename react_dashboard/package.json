@@ -1,0 +1,23 @@
+{
+  "name": "react_dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild src/index.tsx --bundle --minify --format=iife --target=es2020 --outfile=dist/bundle.js",
+    "compile-html": "cd .. && python compile_react_html.py",
+    "open": "powershell Start-Process ../rgc_react_live_dashboard.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "esbuild": "^0.28.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "typescript": "^7.0.2"
+  }
+}

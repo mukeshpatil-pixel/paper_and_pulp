@@ -1,0 +1,16 @@
+Tag,Description,Standby_Mean,Standby_Std,Loaded_Mean,Loaded_Std,Anomaly_Mean,Anomaly_Std,Anomaly_Shift_Z
+CCRNIIK001AM1.PV,Motor Current (A),0.1,0.02,142.51,0.61,144.37,3.56,3.06
+CCRNFI0703BA.PV,Suction Flow (m³/h),243.66,3.11,268.67,1.85,254.39,1.75,-7.71
+CCRNPI0704.PV,Suction Header Press (kg/cm²),29.2,0.04,29.2,0.03,29.1,0.05,-2.8
+CCRNPI0721AA.PV,Discharge Press (kg/cm²),39.14,0.12,40.89,0.08,41.79,0.62,11.47
+CCRNHIC0773A.PV,Anti-Surge Valve (%),30.0,0.0,71.0,0.0,66.55,0.81,-4.45
+CCRNVI0780AA.PV,Radial Vib NDE X (µm),0.34,0.05,9.17,0.28,9.6,0.44,1.53
+CCRNVI0780AC.PV,Radial Vib DE (µm),0.22,0.03,4.89,0.16,4.92,0.13,0.19
+CCRNVI0781A.PV,Casing Vib DE (mm/s),0.36,0.1,4.23,0.19,5.56,0.91,6.91
+CCRNVI0782A.PV,Casing Vib NDE (mm/s),0.31,0.07,3.41,0.18,3.14,0.2,-1.47
+CCRNVI0790AA.PV,Motor Bearing Vib (µm),0.13,0.04,1.38,0.05,1.31,0.06,-1.41
+CCRNZI0780A.PV,Axial Thrust Float (µm),-281.14,4.16,25.05,60.77,-298.42,80.17,-5.32
+CCRNTI0780AA.PV,Journal Bearing DE (°C),37.36,1.73,60.77,0.71,61.82,0.45,1.47
+CCRNTI0785AA.PV,Stator Winding U1 (°C),25.29,2.49,40.74,1.88,38.88,1.43,-0.99
+CCRNTI0781A.PV,Lube Oil Header Temp (°C),33.26,2.06,52.93,0.91,54.19,0.58,1.37
+CCRNLI0760A.PV,Lube Oil Tank Level (%),84.35,0.38,86.85,0.31,89.35,2.21,8.1

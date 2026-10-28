@@ -1,0 +1,5 @@
+Dataset,Total Samples,Normal Count,Anomaly Count,Anomaly Rate (%),Mean Score,Min Score,Max Score
+"Train: Healthy Baseline (Mar 02-20, 2020)",5472,5417,55,1.01,0.1428,-0.0757,0.2146
+"Test: Unseen Healthy Normal (Mar 21-28, 2020)",2304,2291,13,0.56,0.1351,-0.03,0.2077
+Test: Abnormal High Vib & ASV (Jul 2021),8064,25,8039,99.69,-0.0724,-0.1252,0.0177
+Test: Abnormal Shutdown Trip (Aug 2020),3168,0,3168,100.0,-0.1505,-0.1523,-0.1498

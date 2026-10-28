@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Large raw archive files (>100MB, rejected by GitHub)
+MetroPT3(CompressorDatase).csv
+2020_RGC.xlsx
+2020_RGC_A_Sequential_Sensor_Names.xlsx
+
+# System files
+.DS_Store
+Thumbs.db

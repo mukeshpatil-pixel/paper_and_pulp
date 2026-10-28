@@ -1,0 +1,16 @@
+Tag,Description,Unit,Category
+TP2,Compressor Stage 2 Pressure,bar,Pressure Stage
+TP3,Compressor Stage 3 Pressure,bar,Pressure Stage
+H1,High-Pressure Line (Pre-Dryer),bar,Pneumatic Line
+DV_pressure,Drain Valve / Purge Pressure,bar,Purge / Drain
+Reservoirs,Main Reservoir Delivery Pressure,bar,Air Delivery
+Oil_temperature,Compressor Lubricating Oil Temp,°C,Thermal
+Motor_current,Drive Motor Electric Current,A,Electrical Load
+COMP,"Air Intake Valve Signal (0=Load, 1=Idle)",Binary,Intake Valve
+DV_eletric,Drain Valve Electrical Command,Binary,Purge Valve
+Towers,Dryer Desiccant Tower Cycling (A/B),Binary,Air Dryer
+MPG,Main Pressure Governor Signal,Binary,Governor Control
+LPS,Low Pressure Safety Signal (<6.5 bar),Binary,Safety Alarm
+Pressure_switch,Pneumatic Safety Pressure Switch,Binary,Safety Switch
+Oil_level,Compressor Oil Reservoir Level Switch,Binary,Lube Safety
+Caudal_impulses,Flow Pulse Meter Counter Signal,Binary,Airflow Pulse
